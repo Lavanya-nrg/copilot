@@ -1,0 +1,21 @@
+transaction_dt,unique_trx_id,item_code,sale_price,store_no,store_name
+2020-01-01,0YU5E88EO1,5207.0,61.16,,Shaw LLC
+2020-01-02,TVPOZG17MS,4051.0,46.97,1.0,Carter-Vargas
+2020-01-03,6DZKNLNYHL,6668.0,93.21,,Bradford Ltd
+2020-01-04,7SPLVESZ4W,2988.0,62.39,5.0,"Wilson, Crawford and Lara"
+2020-01-05,B6C02UQE0U,3749.0,91.07,4.0,Young-Johnson
+2020-01-06,6L2AQGUNVV,3632.0,43.48,5.0,"Holt, Hoffman and Alvarez"
+2020-01-07,0CP29Z0C7P,7393.0,25.17,2.0,"Jackson, Boone and Thompson"
+2020-01-08,UC20RN2NGG,,60.04,9.0,Moore-King
+2020-01-09,X5WOQUA1IZ,4032.0,57.23,6.0,White-Molina
+2020-01-10,ILDP277A25,6658.0,47.54,3.0,"Walton, Patterson and Sandoval"
+2020-01-11,C75IX3CST4,1015.0,33.04,,Soto Inc
+2020-01-12,QGBY3NBJ77,,70.29,1.0,
+2020-01-13,M9R0WXTU0Q,2006.0,25.86,,"Anderson, Johnson and Mathis"
+2020-01-14,DTHMJTMJSF,2208.0,98.56,10.0,"Duran, Castillo and Kramer"
+2020-01-15,RGBW0PLMO7,,22.82,8.0,Cruz and Sons
+2020-01-16,0TB12VSKC2,1019.0,22.72,1.0,"Lamb, Moody and Fowler"
+2020-01-17,565KKPJJYJ,2524.0,18.98,2.0,Skinner LLC
+2020-01-18,OE9AWFINGL,,66.17,2.0,Horn-Smith
+2020-01-19,XENM30TMET,2152.0,57.48,2.0,"Alvarez, Kaiser and Miller"
+2020-01-20,KLDBAT2KBT,9556.0,31.71,8.0,Roth Group

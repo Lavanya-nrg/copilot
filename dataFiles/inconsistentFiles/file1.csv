@@ -1,0 +1,11 @@
+transaction_dt,unique_trx_id,item_code,item_sr_no,item_mfg_dt,sale_price,store_no,store_name,customer_id,customer_name,city,state,zip
+2024-03-01 08:12:45,TRX001,TV,SER12345,2023-12-01,1000,001,Electronics Emporium,CUST001,John Doe,New York,NY,10001
+2024-03-02 10:30:22,TRX002,Mobile,MOB54321,2023-11-15,800,002,Online Electronics Store,CUST002,Jane Smith,Los Angeles,CA,90001
+2024-03-03 13:45:17,TRX003,Fridge,FRD67890,,1200,003,Gadgets Galore,CUST003,Michael Johnson,Chicago,IL,60601
+2024-03-04 11:20:55,TRX004,Microwave,,2023-09-05,400,001,Electronics Emporium,CUST004,Emily Brown,Houston,TX,77001
+2024-03-05 09:55:33,TRX005,,HDP24680,2023-08-15,100,002,Online Electronics Store,CUST005,Robert Wilson,Miami,FL,33101
+2024-03-06 14:10:11,TRX006,Tablet,TBL13579,2023-07-25,,003,Gadgets Galore,CUST006,Susan Martinez,San Francisco,CA,94101
+2024-03-07 12:35:44,TRX007,TV,SER54321,2023-06-10,900,001,Electronics Emporium,CUST007,David Taylor,Dallas,TX,
+2024-03-08 09:40:29,TRX008,Mobile,MOB98765,2023-05-05,700,002,Online Electronics Store,CUST008,Samantha Anderson,,WA,98101
+2024-03-09 10:15:18,TRX009,,MIC75309,2023-04-01,350,003,Gadgets Galore,CUST009,Christopher Lee,Boston,MA,02101
+2024-03-10 13:20:07,TRX010,Tablet,TBL97531,2023-03-20,550,001,Electronics Emporium,CUST010,Amanda White,Philadelphia,PA,19101

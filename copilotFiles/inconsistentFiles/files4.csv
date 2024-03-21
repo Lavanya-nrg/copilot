@@ -1,0 +1,21 @@
+transaction_dt,unique_trx_id,item_code,item_sr_no,item_mfg_dt,sale_price,disc_price,store_no,store_name,customer_name,city,state,zip,extra1,extra2
+2020-01-01,DB1NKU13C1,6720,1655.0,2024-02-17,83.53,39.23,2.0,"Vasquez, Lopez and Larson",,Hoville,Missouri,16591,specific,new
+2020-01-02,4BP81BRKNA,5973,4419.0,2023-10-05,67.06,42.97,1.0,Gordon Group,Mrs. Linda Smith,Smithview,Wisconsin,65337,ok,tax
+2020-01-03,NM9FG0944A,1520,9847.0,2024-01-30,71.89,23.87,2.0,Baker PLC,Mark Castro,Cherylstad,,82817,,hard
+2020-01-04,XM1QBBCRIL,4886,7471.0,2024-02-18,11.53,35.31,,Hoffman Ltd,Christopher Smith,Heathertown,Mississippi,77673,say,final
+2020-01-05,6WGIX71GBB,3711,,2023-04-23,51.61,6.66,4.0,,Jessica Sanders,Port Joshuafurt,Ohio,56448,,money
+2020-01-06,6HDGUPZJFD,5386,3092.0,2023-09-25,59.62,46.09,10.0,,Jonathan Hansen,North Brianton,New Mexico,35975,key,serve
+2020-01-07,EAZYW2B5SG,8771,5445.0,,13.03,29.48,,Snow LLC,William Reyes,Lake Richard,North Dakota,72816,kid,trip
+2020-01-08,4JYO4TFQ68,3338,5574.0,,13.11,,,Williams-Johnson,Marvin Jones,West Amyberg,Michigan,15004,member,lose
+2020-01-09,5FZ4VQLELL,6639,1169.0,2023-07-23,83.98,39.3,2.0,,Stephanie Lee,Nguyenstad,Indiana,08486,direction,Mr
+2020-01-10,T39NSME9JP,7871,1764.0,2024-01-31,54.81,25.32,1.0,Byrd and Sons,Michael Harper,West Rebecca,New Jersey,28666,peace,
+2020-01-11,3718SLQYW7,9037,6263.0,2023-08-27,,25.42,1.0,Meadows Group,James Hoffman,,North Dakota,81320,old,member
+2020-01-12,Q832R1SR9L,2794,,,11.37,44.67,8.0,,Kenneth Russo,Port Jeffreyview,Utah,52057,purpose,project
+2020-01-13,DY2AD8MR4R,6846,,2023-12-31,83.48,47.15,6.0,Singh-Brock,,Steveview,Nebraska,29406,reason,study
+2020-01-14,E3NSV9MYHL,5764,1969.0,2023-04-02,79.94,14.3,7.0,"Williams, Wright and Armstrong",Angela Terry,Berryport,,30055,edge,possible
+2020-01-15,RTGMAVWIW3,7099,5970.0,2023-09-24,74.25,9.22,5.0,,Crystal Brooks,West Melissa,Iowa,68316,tell,decade
+2020-01-16,UXUB6AOR49,4300,,2024-03-14,45.85,19.18,8.0,Lane-Walker,Benjamin Wilson,West Natashastad,Delaware,93796,third,plan
+2020-01-17,D6YKIY4SEK,7866,8936.0,2024-01-29,31.09,18.0,9.0,,,Anneville,Virginia,11977,hair,national
+2020-01-18,I2BJLJ7G83,8488,8983.0,2023-05-20,86.73,41.03,7.0,"Johnson, Higgins and Brooks",Anthony Hughes,Denniston,New Jersey,94523,study,purpose
+2020-01-19,A1PG3TJUE4,3979,3198.0,2023-07-22,83.92,10.08,3.0,Nicholson-Anderson,Jesus Kelly,Johnsonborough,Indiana,,oil,reduce
+2020-01-20,9UM19NCIPO,1921,1288.0,2023-12-07,36.86,14.28,7.0,"Cook, Mendez and Freeman",Catherine Mann,South Mary,Maryland,33478,,activity

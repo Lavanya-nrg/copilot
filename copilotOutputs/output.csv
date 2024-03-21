@@ -1,0 +1,21 @@
+transaction_dt,unique_trx_id,item_code,item_sr_no,item_mfg_dt,sale_price,disc_price,store_no,store_name,customer_id,customer_name,city,state,zip
+2020-01-01,CNADVVTG6H,4371,6128,2019-01-01,94.43,23.98,6,Mcbride-Cameron,5973,Miranda Williams,Baileyland,Ohio,55488
+2020-01-02,N0XWBAS8Q7,1591,8426,2019-01-02,97.3,36.81,9,Thompson-Jones,7069,Jonathan Levy,West Martin,Washington,43461
+2020-01-03,CLI5QJL4R7,3633,7959,2019-01-03,98.93,29.12,10,Phillips Group,5070,Richard Mcgrath,Hallhaven,New York,69647
+2020-01-04,4EKFXSA198,9804,5339,2019-01-04,75.59,43.78,5,Coffey LLC,9164,Jessica Gomez,West Kevin,Massachusetts,73588
+2020-01-05,QOE234A4LC,9560,9698,2019-01-05,17.05,23.3,9,Salazar-Sanchez,3378,Katie Davis,Lake Rebeccaborough,South Carolina,99902
+2020-01-06,6JMJ0CTG47,8334,7275,2019-01-06,67.39,35.69,1,Gilmore Group,7191,Kent Young,North Kayleefurt,Utah,86153
+2020-01-07,EZSINLQDHX,4358,4345,2019-01-07,92.7,5.78,8,"Davis, Whitney and Riggs",1556,David Stewart,North Erikabury,Pennsylvania,6464
+2020-01-08,P3W2UNUDEB,2289,5005,2019-01-08,84.66,13.53,7,Simmons and Sons,7585,Joel Soto,Amandatown,Maryland,38135
+2020-01-09,7U6Q6Y439G,1357,9448,2019-01-09,99.48,7.3,8,Pierce-Harris,6163,John Oconnell,West Sandraville,Texas,39724
+2020-01-10,624MJISF1E,1294,6484,2019-01-10,18.29,42.7,3,Rasmussen-Clark,6394,James Moran,West Theresa,Iowa,23538
+2020-01-11,3W8PS8JBSG,2762,5279,2019-01-11,70.3,8.47,6,Howard PLC,6158,Gary Yang,East Courtney,Illinois,58986
+2020-01-12,JVMV8WY4MX,2086,5781,2019-01-12,41.04,12.96,9,Mcclain Inc,4446,George Wilson,Williamsfort,Virginia,46947
+2020-01-13,ZE2GZUO06Z,9931,7288,2019-01-13,15.08,34.55,7,Klein-Caldwell,1498,Janet Powell,Mariefurt,Maine,69898
+2020-01-14,JMH2NMZ06P,8179,8662,2019-01-14,74.86,19.54,8,Ware-Clark,1843,Jason Williams,Port Sharonport,Washington,80429
+2020-01-15,13R0V27D1Q,5066,2128,2019-01-15,38.35,23.78,4,Williams-Rodriguez,5589,Jason Owens,Josephton,Hawaii,22762
+2020-01-16,K4DGW8QGGG,6940,3065,2019-01-16,88.55,24.02,7,Wilson Group,3912,Carlos Trujillo,South Karen,Alabama,76492
+2020-01-17,GDNETSBSEQ,7520,6843,2019-01-17,82.69,27.57,5,Gonzalez LLC,2442,Wesley Martinez,Mckinneyshire,Montana,7573
+2020-01-18,FY5FYPYFJU,2793,9644,2019-01-18,60.46,29.98,4,"Cantu, Obrien and Smith",3815,Antonio Parks,New Shawna,Virginia,84389
+2020-01-19,YBB24DI47K,4075,7854,2019-01-19,31.02,12.01,7,Porter Group,3670,Katherine Jones,South Stephen,Rhode Island,42224
+2020-01-20,7FXZ5GQ0ZS,7308,3729,2019-01-20,83.41,45.95,8,"Quinn, Martin and Patterson",9634,Jared Murray,Watsontown,Missouri,61554

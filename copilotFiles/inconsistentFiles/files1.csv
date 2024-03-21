@@ -1,0 +1,21 @@
+transaction_dt,unique_trx_id,item_code,item_sr_no,sale_price,store_no,store_name,customer_id,customer_name,city,state,extra1
+2020-01-01,0QSW57KB7J,,7588.0,43.41,5,Jenkins-Dunn,8124,Brandi Adams,Lake Charlesshire,Michigan,participant
+2020-01-02,D443DQ0N6T,7004.0,,52.41,1,"Taylor, Klein and Thomas",3435,David Bailey,,South Dakota,
+2020-01-03,B4CGHYL619,9131.0,6394.0,18.03,2,Jackson Inc,5764,Renee Cannon,Jamesland,New Hampshire,radio
+2020-01-04,KWWARKWJQH,4852.0,6510.0,,6,Johnson and Sons,7072,Tiffany Williams,,New Jersey,benefit
+2020-01-05,RCWIOC1LDJ,9171.0,7640.0,92.17,8,Sims Ltd,7639,Jacob Estes,East Tammy,Colorado,now
+2020-01-06,MLQXLIV80Z,2844.0,1770.0,54.69,3,,6368,William Turner,,New Hampshire,know
+2020-01-07,WO1ZG4PEQ6,4759.0,6967.0,46.15,10,Harrison LLC,6438,Keith Yang,Savagechester,Nebraska,mother
+2020-01-08,GQBON4XX71,9147.0,3630.0,,8,Stephens Group,9663,Nancy Woods,South Barry,,star
+2020-01-09,576N10XU8J,4767.0,9459.0,94.69,1,,6127,Jeremy Rodriguez,Jeannemouth,Illinois,fear
+2020-01-10,NVE5H2OO9S,8891.0,3672.0,,1,Gray and Sons,8512,James Martin,Murrayborough,South Dakota,artist
+2020-01-11,4AX3YQXB1F,5262.0,1668.0,16.11,2,"Thomas, Davidson and Thompson",3784,Robert Simon,Dianatown,South Carolina,Democrat
+2020-01-12,CP5O8LI5O2,1827.0,1488.0,62.24,10,"Weber, Frazier and Allen",1902,Michelle Alvarado,Port Dwaynefurt,Kansas,reflect
+2020-01-13,CCMKC0LV3U,8921.0,9125.0,76.34,5,Mason-Anderson,4053,Jacqueline Davis,Andreaport,Minnesota,finish
+2020-01-14,9RYGH75Y5P,5357.0,1541.0,52.55,7,Curry-Blake,8183,Richard Barnes,Claireport,Missouri,once
+2020-01-15,3YZE5VLPAJ,4918.0,4048.0,88.87,3,Miller-Mclaughlin,2960,Donald Brady,Wilsonville,,event
+2020-01-16,SR9PFF0PJ7,4588.0,6461.0,43.65,5,,7484,Anna Kemp,,Hawaii,writer
+2020-01-17,7VWORNHJG2,5826.0,7272.0,95.7,8,Chambers-Harris,7458,Elizabeth Doyle,West Bobby,New Hampshire,participant
+2020-01-18,JQI3C2GVV1,2357.0,4600.0,,3,Brown Inc,2514,,Yubury,Montana,care
+2020-01-19,ID6OZ059JH,5702.0,,51.28,10,Thomas Ltd,2786,Ethan Yang,North Alisonmouth,Ohio,among
+2020-01-20,HA515Z443P,7734.0,,55.55,9,"Sullivan, Holmes and Jackson",1616,Brian Roberts,South Scottton,Louisiana,it

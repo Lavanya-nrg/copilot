@@ -1,0 +1,21 @@
+transaction_dt,unique_trx_id,item_code,item_sr_no,item_mfg_dt,sale_price,disc_price,store_no,store_name,customer_name,city,state,zip,extra1,extra2,extra3
+2020-01-01,8VZH4WV14H,4000.0,7653.0,2023-10-30,70.85,18.16,1.0,Ryan-Rice,Angela Strickland,,Montana,03133,,size,both
+2020-01-02,7AVSQSAJUK,4545.0,,2023-09-30,93.72,17.5,2.0,"Cruz, Mays and Buchanan",Jackie Martin,Hannahton,Florida,15272,cut,break,least
+2020-01-03,IT80URAGFK,3513.0,7764.0,2024-01-11,66.24,6.98,1.0,"Rodriguez, Williams and Waters",Jason Cisneros,Jensenburgh,New Hampshire,43785,laugh,figure,enjoy
+2020-01-04,BL1VMETV9V,4118.0,9569.0,2023-12-09,,40.27,4.0,Mccann-Owens,Amber Gutierrez,,Oregon,03923,,,already
+2020-01-05,64L0GP7M4K,1755.0,8219.0,2023-09-07,64.49,34.46,4.0,"Abbott, Bentley and Hernandez",Adrian Brown,,Ohio,07947,anyone,occur,book
+2020-01-06,33C2LQ1G2T,9638.0,2466.0,2023-07-06,66.04,,10.0,Powers and Sons,,Hawkinsmouth,Nebraska,23135,consider,how,
+2020-01-07,27UWQT3JI0,8552.0,1694.0,2024-01-07,68.28,8.11,,Mcdowell-Chen,Jared Medina,Ryanside,Mississippi,68413,man,move,
+2020-01-08,DBJEWBRXRU,7551.0,2401.0,,18.48,22.27,8.0,Garcia-Reynolds,Walter Powell,East Bradleyfort,Nevada,85398,benefit,technology,through
+2020-01-09,FZSGW3Y2XY,3297.0,8202.0,2024-02-28,16.32,37.24,8.0,Washington-Bell,Bruce Arnold,North Patricia,,,show,area,house
+2020-01-10,KO4K5KKHJL,3752.0,1052.0,2024-02-22,44.63,20.16,,Mendez-Harris,Richard Morris,South Laura,Oklahoma,60213,at,couple,possible
+2020-01-11,PJKLLF9HHL,9436.0,1559.0,2023-06-17,16.3,32.82,9.0,,Timothy Alvarez,,North Carolina,44304,a,animal,newspaper
+2020-01-12,K9JPATFENZ,4096.0,5475.0,2023-04-08,54.17,42.24,6.0,Beck Group,,Mendezland,Iowa,84230,according,else,first
+2020-01-13,0AZ3BEFWDZ,,1616.0,2024-02-10,61.79,12.65,7.0,Garrison Inc,,North Julieshire,Oregon,59665,hold,southern,indicate
+2020-01-14,PEWDQE3NYM,1155.0,5073.0,2023-12-15,81.25,35.82,8.0,"Perez, Huerta and Allen",William Solomon,Jonesborough,Utah,94931,study,chair,through
+2020-01-15,J1M90AE26N,8115.0,5958.0,2023-10-09,85.42,39.09,2.0,"Sanchez, Harris and Leon",Chloe Thomas,Jasonville,Pennsylvania,98895,support,local,receive
+2020-01-16,RQHXJAV25Q,4128.0,6210.0,2023-11-06,65.23,34.14,3.0,Garcia and Sons,Shannon Mcdowell,Jacobtown,Alabama,40712,day,gas,against
+2020-01-17,Y1YXPUPQ81,7019.0,5751.0,2024-02-08,33.45,5.61,3.0,Kirby-Barker,Dale Cherry,,Alabama,50845,true,already,today
+2020-01-18,0M9H8VS67A,3087.0,7311.0,2023-08-14,86.64,,8.0,Simmons-Park,,Emilyberg,Nevada,88991,behind,base,
+2020-01-19,F6YTHCBQZL,1898.0,2918.0,2024-01-03,14.59,27.76,1.0,Mueller-Ramos,Jay Thomas,Timothyhaven,New York,20688,through,standard,value
+2020-01-20,I0WMVXXNCR,1580.0,7951.0,2023-12-23,64.49,37.34,6.0,"Brown, Gonzalez and Alvarez",Jessica Pollard,Joelhaven,Utah,22777,hope,stuff,which

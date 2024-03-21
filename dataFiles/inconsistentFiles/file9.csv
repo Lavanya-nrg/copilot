@@ -1,0 +1,11 @@
+transaction_dt,unique_trx_id,item_code,item_sr_no,item_mfg_dt,sale_price,disc_price,store_no,store_name,customer_id,customer_name,city,state,zip,brand,category
+2020-12-01 08:12:45,TRX401,TV,SER12345,2020-11-01,1000,800,001,Electronics Emporium,CUST401,John Doe,New York,NY,10001,Samsung,Television
+2020-12-02 10:30:22,TRX402,Mobile,MOB54321,,800,750,002,Online Electronics Store,CUST402,Jane Smith,Los Angeles,CA,90001,Sony,Smartphone
+2020-12-03 13:45:17,TRX403,Fridge,FRD67890,2020-09-20,1200,,003,Gadgets Galore,CUST403,Michael Johnson,Chicago,IL,60601,LG,Appliance
+2020-12-04 11:20:55,TRX404,Microwave,,2020-08-05,400,350,001,Electronics Emporium,CUST404,Emily Brown,Houston,TX,77001,Sony,Kitchen
+2020-12-05 09:55:33,TRX405,Headphones,HDP24680,2020-07-15,,80,002,Online Electronics Store,CUST405,Robert Wilson,Miami,FL,33101,Apple,Audio
+2020-12-06 14:10:11,TRX406,Tablet,TBL13579,,600,550,003,Gadgets Galore,CUST406,Susan Martinez,San Francisco,CA,94101,,Tablet
+2020-12-07 12:35:44,TRX407,TV,SER54321,2020-06-10,900,850,001,,CUST407,David Taylor,Dallas,TX,75201,Samsung,Television
+2020-12-08 09:40:29,TRX408,Mobile,MOB98765,2020-05-05,700,650,002,Online Electronics Store,CUST408,Samantha Anderson,Seattle,WA,98101,Apple,Smartphone
+2020-12-09 10:15:18,TRX409,Microwave,MIC75309,,350,300,003,Gadgets Galore,CUST409,Christopher Lee,Boston,MA,,Kitchen
+2020-12-10 13:20:07,TRX410,Tablet,TBL97531,2020-03-20,550,500,001,Electronics Emporium,CUST410,Amanda White,Philadelphia,PA,19101,Microsoft,

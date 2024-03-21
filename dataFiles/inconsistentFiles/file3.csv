@@ -1,0 +1,11 @@
+transaction_dt,unique_trx_id,item_code,item_sr_no,sale_price,store_no,store_name,customer_id,customer_name,city,state,zip
+2024-04-01 08:12:45,TRX101,TV,SER12345,1000,001,Electronics Emporium,CUST101,John Doe,New York,NY,
+2024-04-02 10:30:22,TRX102,,MOB54321,800,002,Online Electronics Store,CUST102,Jane Smith,Los Angeles,CA,90001
+2024-04-03 13:45:17,TRX103,Fridge,,1200,003,Gadgets Galore,CUST103,Michael Johnson,Chicago,IL,60601
+2024-04-04 11:20:55,TRX104,Microwave,MIC98765,400,,Electronics Emporium,CUST104,Emily Brown,Houston,TX,77001
+2024-04-05 09:55:33,TRX105,Headphones,HDP24680,,002,Online Electronics Store,CUST105,Robert Wilson,Miami,FL,33101
+2024-04-06 14:10:11,TRX106,Tablet,TBL13579,600,003,Gadgets Galore,CUST106,Susan Martinez,San Francisco,CA,94101
+2024-04-07 12:35:44,TRX107,TV,SER54321,900,001,,CUST107,David Taylor,Dallas,TX,75201
+2024-04-08 09:40:29,TRX108,Mobile,MOB98765,700,002,Online Electronics Store,,Samantha Anderson,Seattle,WA,98101
+2024-04-09 10:15:18,TRX109,Microwave,MIC75309,350,003,Gadgets Galore,CUST109,Christopher Lee,Boston,MA,
+2024-04-10 13:20:07,TRX110,Tablet,TBL97531,550,001,Electronics Emporium,CUST110,Amanda White,Philadelphia,PA,19101

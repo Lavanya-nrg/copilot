@@ -1,0 +1,21 @@
+transaction_dt,unique_trx_id,item_code,item_mfg_dt,sale_price,disc_price,store_no,store_name,customer_id,customer_name,extra1,extra2
+2020-01-01,7E56KRZM1V,9227.0,2023-10-01,35.8,,,Fuller Inc,8972.0,Jennifer Clark,,even
+2020-01-02,85Q6S5CMSM,9626.0,2023-06-05,10.73,45.73,10.0,Price PLC,9967.0,Denise Carlson,heart,
+2020-01-03,KGHT4GV2A3,3210.0,2023-08-07,,14.48,1.0,Blankenship and Sons,7542.0,Kelly Collins,even,bank
+2020-01-04,TEXRENX43K,9826.0,2023-10-18,93.16,,2.0,Brown-Orozco,5077.0,Robin Martinez,,man
+2020-01-05,0Q0ZHG18WZ,1812.0,,58.66,12.68,1.0,"Price, Santos and Holloway",7583.0,Joshua Ramirez,read,
+2020-01-06,S4F1VKHH3D,7036.0,2023-09-03,97.39,25.62,2.0,Washington Inc,9999.0,David Parks,policy,bank
+2020-01-07,O8MD3BDJN9,9469.0,2023-11-21,68.7,30.13,10.0,"Nelson, Baker and Alexander",1162.0,Kathy Carter,prove,practice
+2020-01-08,6SEE2IH74Q,7940.0,2023-04-29,48.62,9.85,10.0,West-Morgan,8143.0,Teresa Cardenas,environmental,result
+2020-01-09,UXVOVC6G41,4240.0,2023-08-14,,39.49,7.0,Randolph LLC,,Christina Larson,start,throw
+2020-01-10,1LKHE8R32R,7331.0,2023-12-27,20.57,26.64,7.0,"Delgado, Wood and Michael",9694.0,Sarah Stewart,would,environment
+2020-01-11,DYRJ38XZ9S,4380.0,2023-11-05,76.22,29.81,2.0,"Ochoa, Malone and Anderson",7498.0,Sara Griffith,fall,attorney
+2020-01-12,0OTT4X6ZLD,5164.0,,27.78,49.57,5.0,Pierce LLC,9415.0,Mr. Randy Edwards,protect,
+2020-01-13,020KLZVNQN,2844.0,2023-06-21,68.59,13.83,,Perez PLC,7741.0,Colleen Stevens,building,road
+2020-01-14,EJZXEN13PK,,2023-12-25,18.51,40.53,,Barrett Ltd,6964.0,Logan Everett,hope,scene
+2020-01-15,NJUJVZ0U5C,1431.0,2023-07-21,38.96,7.54,3.0,"Shepard, Harper and Stevenson",1120.0,Karen Friedman,sell,nice
+2020-01-16,2LQ65FYV8L,5353.0,2024-03-01,16.65,28.63,7.0,Webb Group,1295.0,,simple,space
+2020-01-17,MEB1KO2SQQ,7785.0,2023-10-15,78.56,39.37,5.0,"Hampton, Willis and Graham",4230.0,Jennifer Willis,against,share
+2020-01-18,TUEXLN6BML,5545.0,,70.66,29.43,1.0,Young Group,3575.0,,think,your
+2020-01-19,1ISMLSN3WN,7687.0,,96.2,38.51,1.0,"Anderson, Warren and Huffman",6532.0,,father,bill
+2020-01-20,7AIH1WH9JT,3839.0,2023-04-02,47.32,5.86,8.0,Hayes PLC,1350.0,Brandon Noble,speak,hand
